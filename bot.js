@@ -4,7 +4,7 @@ const prefix = 'Da'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Beeegin`,"http://twitch.tv/S-F")
+client.user.setGame(`i love saad`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
